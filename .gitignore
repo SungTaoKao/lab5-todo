@@ -16,6 +16,10 @@ application/logs/*
 !application/logs/.htaccess
 /vendor/
 /nbproject/private/
+/nbproject/
 
 #PhpStorm
 .idea/*
+
+# Temp folder
+/tmp/*
